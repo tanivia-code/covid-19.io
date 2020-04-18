@@ -66,9 +66,9 @@ a {
     display: grid;
     size: 100%;
     grid-template-columns: repeat(4, 1fr);
+    color: whitesmoke;
     text-align: center;
     background-size: cover;
-    color: whitesmoke;
     background-color: #2d2827;
     float: flex;
     column-gap: 20px;
@@ -78,7 +78,7 @@ a {
 }
 
 #cabecalho {
-    background-image: url(https://github.com/tanivia-code/covid19.io/blob/master/image/coronavirus_banner.jpg);
+    background-image: url(http://media.githubusercontent.com/media/tanivia-code/covid19.io/master/image/coronavirus_banner.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
