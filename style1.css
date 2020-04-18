@@ -24,7 +24,7 @@ a {
 }
 
 .h3 {
-    text-align: center;
+    align: center;
     color: white;
     background-color: #a22a11;
 }
