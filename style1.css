@@ -78,7 +78,7 @@ a {
 }
 
 #cabecalho {
-    background-image: url(image/coronavirus_banner.jpg);
+    background-image: url(/image/coronavirus_banner.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
