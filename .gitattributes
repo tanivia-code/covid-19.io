@@ -1,3 +1,11 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
+.png filter=lfs diff=lfs merge=lfs -text
+.jpg filter=lfs diff=lfs merge=lfs -text
+.mp3 filter=lfs diff=lfs merge=lfs -text
+.mp4 filter=lfs diff=lfs merge=lfs -text
+.svg filter=lfs diff=lfs merge=lfs -text
+covid-19.io/audio/* filter=lfs diff=lfs merge=lfs -text
+covid-19.io/image/* filter=lfs diff=lfs merge=lfs -text
+covid-19.io/video/* filter=lfs diff=lfs merge=lfs -text
