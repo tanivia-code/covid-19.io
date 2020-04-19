@@ -17,7 +17,8 @@ h1 {
 
 h2 {
     text-aline: center;
-    width: 100%;
+    size: 100%;
+    text-align: center;
 }
 
 a {   
