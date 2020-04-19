@@ -16,8 +16,9 @@ h1 {
 }
 
 h2 {
-    text-aline: center;
+    
     size: 100%;
+    text-aline: center;
 }
 
 a {   
@@ -29,6 +30,7 @@ a {
 h3 {
     color: whitesmoke;
     background-color: darkslategrey;
+    text-aline: center;
 }
 
 .noticia {
