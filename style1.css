@@ -24,7 +24,6 @@ a {
 }
 
 .h3 {
-    text-align: center;
     color: white;
     background-color: #a22a11;
 }
@@ -36,7 +35,7 @@ a {
 }
 
 .textual {
-    display: grid;
+    display: float;
     grid-template-columns: 1fr 1fr;
     column-gap: 20px;
     margin-left: 5%;
@@ -45,6 +44,7 @@ a {
 }
 
 .titulo {
+    display: float;
     align: center;
     
 }
