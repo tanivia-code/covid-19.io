@@ -4,8 +4,8 @@
 
 ## Instalação
 
-<p> **[Git](https://git-scm.com/download)** </p>
-<p> **[Visual Studio](https://code.visualstudio.com/download)** </p>
+* **[Git](https://git-scm.com/download)**
+* **[Visual Studio](https://code.visualstudio.com/download)**
 
 ## Objetivos gerais
 
@@ -38,11 +38,11 @@
 
 ## Desenvolvimento
 
-<p>A pesquisa foi realizada no **[Google](http://www.google.com)** para selecionar as matérias que contivessem os conteúdos e formatos solicitados pela descrição do *assignment*.</p>
+<p>A pesquisa foi realizada no [Google](https://www.google.com) para selecionar as matérias que contivessem os conteúdos e formatos solicitados pela descrição do *assignment*.</p>
 
 <p>Após utilização do **Git bash** para desenvolvimento do respositório, foi utilizado o *Visual Studio* para confecção das páginas em **HTML** e **CSS** — este último foi desenvolvido separada para flexibilização do estilo sem compromentimento da estrutura.</p>
 
-<p>Por fim, o respositório local foi transferido para o **[Git Hub](http://github.com)** e lá, após diversas alterações que consistiram em correções de *link* e alterações de estilo no código **CSS**, finalmente foi possível transferir o conteúdo corretamente com o **[Netily(https://www.netlify.com/)** integrado.</p>
+<p>Por fim, o respositório local foi transferido para o [Git Hub](https://github.com) e lá, após diversas alterações que consistiram em correções de *link* e alterações de estilo no código **CSS**, finalmente foi possível transferir o conteúdo corretamente com o [Netlify](https://www.netlify.com) integrado.</p>
 
 ## Considerações finais
 
