@@ -1,6 +1,6 @@
 # GIT, GITHUB, HTML E CSS
 
-<p>Desenvolvimento de site com notícias sobre covid-19 que inclui imagens, áudios e vídeos como requisito para conclusão de um dos assignments da 6.° semana da **Gama Academy** do programa Hiring Coders.</p>
+Desenvolvimento de site com notícias sobre *covid-19* que inclui imagens, áudios e vídeos como requisito para conclusão de um dos *assignments* da 6.° semana da **Gama Academy** do programa **Hiring Coders**.
 
 ## Instalação
 
@@ -38,24 +38,24 @@
 
 ## Desenvolvimento
 
-<p>A pesquisa foi realizada no Google para selecionar as matérias que contivessem os conteúdos e formatos solicitados pela descrição do assignment.</p>
+A pesquisa foi realizada no **[Google](http://www.google.com)** para selecionar as matérias que contivessem os conteúdos e formatos solicitados pela descrição do assignment.
 
-<p>Após utilização do Git bash para desenvolvimento do respositório, foi utilizado o *Visual Studio* para confecção das páginas em HTML e CSS — este último foi desenvolvido separada para flexibilização do estilo sem compromentimento da estrutura.</p>
+Após utilização do *Git bash* para desenvolvimento do respositório, foi utilizado o *Visual Studio* para confecção das páginas em **HTML** e **CSS** — este último foi desenvolvido separada para flexibilização do estilo sem compromentimento da estrutura.
 
-<p>Por fim, o respositório local foi transferido para o Git Hub e lá, após diversas alterações que consistiram em correções de link e alterações de estilo no código CSS, finalmente foi possível transferir o conteúdo corretamente com o Netlify integrado.</p>
+Por fim, o respositório local foi transferido para o **[Git Hub](http://github.com)** e lá, após diversas alterações que consistiram em correções de link e alterações de estilo no código CSS, finalmente foi possível transferir o conteúdo corretamente com o **[Netlify](https://www.netlify.com/)** integrado.
 
 ## Considerações finais
 
-<p>A execução do projeto mostrou-se extremamente difícil na execução por diversos detalhes que diziam respeito à codificação correta e domínio das ferramentas. Contudo, foi uma experiência edificante no sentido de agregar mais conhecimento sobre estrutura e estilização, bem como, ferramentas de publicação e trabalho colaborativo.</p>
+A execução do projeto mostrou-se extremamente difícil na execução por diversos detalhes que diziam respeito à codificação correta e domínio das ferramentas. Contudo, foi uma experiência edificante no sentido de agregar mais conhecimento sobre estrutura e estilização, bem como, ferramentas de publicação e trabalho colaborativo.
 
 ## Fontes
 
-* [Como fazer um README.md BONITÃO](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8).
-* [Como usar Git e Github na prática](https://www.youtube.com/watch?v=2alg7MQ6_sI).
-* [El País](https://brasil.elpais.com/brasil/2020-04-15/ao-vivo-ultimas-noticias-sobre-o-coronavirus-no-brasil-e-no-mundo.html).
-* [G1](https://g1.globo.com/bemestar/coronavirus/noticia/2020/04/15/ultimas-noticias-de-coronavirus-de-15-de-abril.html).
-* [Google](http://www.google.com).
-* [Portal Drauzio Varella](https://drauziovarella.uol.com.br/).
-* [Agência Senado](https://www12.senado.leg.br/noticias).
-* [Estado de Minas](https://www.em.com.br/).
-* [Band Jornalismo](https://www.youtube.com/channel/UCoa-D_VfMkFrCYodrOC9-mA).
+* [Como fazer um README.md BONITÃO](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
+* [Como usar Git e Github na prática](https://www.youtube.com/watch?v=2alg7MQ6_sI)
+* [El País](https://brasil.elpais.com/brasil/2020-04-15/ao-vivo-ultimas-noticias-sobre-o-coronavirus-no-brasil-e-no-mundo.html)
+* [G1](https://g1.globo.com/bemestar/coronavirus/noticia/2020/04/15/ultimas-noticias-de-coronavirus-de-15-de-abril.html)
+* [Google](http://www.google.com)
+* [Portal Drauzio Varella](https://drauziovarella.uol.com.br/)
+* [Agência Senado](https://www12.senado.leg.br/noticias)
+* [Estado de Minas](https://www.em.com.br/)
+* [Band Jornalismo](https://www.youtube.com/channel/UCoa-D_VfMkFrCYodrOC9-mA)
