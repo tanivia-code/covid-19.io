@@ -4,8 +4,8 @@
 
 ## Instalação
 
-<p>**[Git](https://git-scm.com/download)**</p>
-<p>**[Visual Studio](https://code.visualstudio.com/download)**</p>
+<p> **[Git](https://git-scm.com/download)** </p>
+<p> **[Visual Studio](https://code.visualstudio.com/download)** </p>
 
 ## Objetivos gerais
 
