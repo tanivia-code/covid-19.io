@@ -25,7 +25,7 @@ Desenvolvimento de site com notícias sobre *covid-19* que inclui imagens, áudi
 * Uitlizar linguagem html para estrutura;
 * utililizar linguagem css para estilo;
 * não utilizar blocos ou estruturas prontas como bootstrap e ferramentas drag-and-drop;
-* utilizar metodologia hard coded ou codificação rígida.
+* utilizar metodologia *hard coded* ou codificação rígida.
 
 3. Utilizar a seguinte estrutura:
 
@@ -38,11 +38,11 @@ Desenvolvimento de site com notícias sobre *covid-19* que inclui imagens, áudi
 
 ## Desenvolvimento
 
-A pesquisa foi realizada no **[Google](http://www.google.com)** para selecionar as matérias que contivessem os conteúdos e formatos solicitados pela descrição do assignment.
+A pesquisa foi realizada no **[Google](http://www.google.com)** para selecionar as matérias que contivessem os conteúdos e formatos solicitados pela descrição do *assignment*.
 
 Após utilização do *Git bash* para desenvolvimento do respositório, foi utilizado o *Visual Studio* para confecção das páginas em **HTML** e **CSS** — este último foi desenvolvido separada para flexibilização do estilo sem compromentimento da estrutura.
 
-Por fim, o respositório local foi transferido para o **[Git Hub](http://github.com)** e lá, após diversas alterações que consistiram em correções de link e alterações de estilo no código CSS, finalmente foi possível transferir o conteúdo corretamente com o **[Netlify](https://www.netlify.com/)** integrado.
+Por fim, o respositório local foi transferido para o **[Git Hub](http://github.com)** e lá, após diversas alterações que consistiram em correções de *link* e alterações de estilo no código **CSS**, finalmente foi possível transferir o conteúdo corretamente com o **[Netlify](https://www.netlify.com/)** integrado.
 
 ## Considerações finais
 
