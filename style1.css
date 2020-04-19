@@ -8,7 +8,6 @@ h1 {
     animation-name: mudacor;
     animation-duration: 5s;
     color: red;
-
 }
 
 @keyframes mudacor {
@@ -16,8 +15,12 @@ h1 {
     to {color: red;}
 }
 
-a {
-    
+h2 {
+    text-aline: center;
+    width: 100%;
+}
+
+a {   
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: blue;
     text-decoration: unset;
