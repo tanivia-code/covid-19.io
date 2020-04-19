@@ -1,6 +1,6 @@
 # GIT, GITHUB, HTML E CSS
 
-<p>Desenvolvimento de site com notícias sobre **covid-19** que inclui imagens, áudios e vídeos como requisito para conclusão de um dos *assignments* da 6.° semana da **Gama Academy** do programa **Hiring Coders**.</p>
+<p>Desenvolvimento de site com notícias sobre covid-19 que inclui imagens, áudios e vídeos como requisito para conclusão de um dos assignments da 6.° semana da **Gama Academy** do programa Hiring Coders.</p>
 
 ## Instalação
 
@@ -38,11 +38,11 @@
 
 ## Desenvolvimento
 
-<p>A pesquisa foi realizada no [Google](https://www.google.com) para selecionar as matérias que contivessem os conteúdos e formatos solicitados pela descrição do *assignment*.</p>
+<p>A pesquisa foi realizada no Google para selecionar as matérias que contivessem os conteúdos e formatos solicitados pela descrição do assignment.</p>
 
-<p>Após utilização do **Git bash** para desenvolvimento do respositório, foi utilizado o *Visual Studio* para confecção das páginas em **HTML** e **CSS** — este último foi desenvolvido separada para flexibilização do estilo sem compromentimento da estrutura.</p>
+<p>Após utilização do Git bash para desenvolvimento do respositório, foi utilizado o *Visual Studio* para confecção das páginas em HTML e CSS — este último foi desenvolvido separada para flexibilização do estilo sem compromentimento da estrutura.</p>
 
-<p>Por fim, o respositório local foi transferido para o [Git Hub](https://github.com) e lá, após diversas alterações que consistiram em correções de *link* e alterações de estilo no código **CSS**, finalmente foi possível transferir o conteúdo corretamente com o [Netlify](https://www.netlify.com) integrado.</p>
+<p>Por fim, o respositório local foi transferido para o Git Hub e lá, após diversas alterações que consistiram em correções de link e alterações de estilo no código CSS, finalmente foi possível transferir o conteúdo corretamente com o Netlify integrado.</p>
 
 ## Considerações finais
 
@@ -54,6 +54,7 @@
 * [Como usar Git e Github na prática](https://www.youtube.com/watch?v=2alg7MQ6_sI).
 * [El País](https://brasil.elpais.com/brasil/2020-04-15/ao-vivo-ultimas-noticias-sobre-o-coronavirus-no-brasil-e-no-mundo.html).
 * [G1](https://g1.globo.com/bemestar/coronavirus/noticia/2020/04/15/ultimas-noticias-de-coronavirus-de-15-de-abril.html).
+* [Google](http://www.google.com).
 * [Portal Drauzio Varella](https://drauziovarella.uol.com.br/).
 * [Agência Senado](https://www12.senado.leg.br/noticias).
 * [Estado de Minas](https://www.em.com.br/).
