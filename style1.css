@@ -29,6 +29,7 @@ a {
 }
 
 .noticia {
+    float: flex;
     margin-left: 5%;
     margin-right: 5%;
     padding: 2%;
@@ -44,7 +45,8 @@ a {
 }
 
 .titulo {
-    display: float;
+    display: grid;
+    grid-template-columns: 1fr;
     align: center;
     margin-left: 5%;
     margin-right: 5%;
